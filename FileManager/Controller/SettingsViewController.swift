@@ -76,6 +76,5 @@ extension SettingsViewController: UITableViewDelegate {
             let viewControler = LoginViewController(mode: .changePassword, coordinator: nil)
             present(viewControler, animated: true)
         }
-        
     }
 }

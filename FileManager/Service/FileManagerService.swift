@@ -86,6 +86,4 @@ final class FileManagerService: (FileManagerServiceProtocol) {
     func getPath(name: String) -> String {
         pathForFolder + "/" + name
     }
-    
-
 }

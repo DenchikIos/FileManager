@@ -130,7 +130,6 @@ final class LoginViewController: UIViewController {
             }
         }
     }
-    
 }
 
 extension LoginViewController: UITextFieldDelegate {
